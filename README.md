@@ -5,7 +5,7 @@ Senuk-Music
 
 # Repo Music Yang Di Buat Oleh @bocahbot97
 
-![!Logo Senuk-Music](https://telegra.ph/file/ae275361ac78f11a162a9e8affb8007b.jpg)
+![!Logo Senuk-Music](https://storage/DCIM/ae275361ac78f11a162a9e8affb8007b.jpg)
 
 <h2> Fitur : </h2>
 
